@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-v5x7dh.goib138.site/sitemap.xml
